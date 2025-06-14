@@ -1,0 +1,2 @@
+match_id,innings_number,over,ball_of_over,legal_ball_of_over,next_legal_ball,is_wide,is_noball
+1443098,1,2,1,1,2,True,False

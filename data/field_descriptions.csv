@@ -1,0 +1,44 @@
+file,column,type,description
+ball_by_ball,match_id,text,Unique identifier for the match
+ball_by_ball,innings_number,integer,Number of innings played so far in the match including this one
+ball_by_ball,over,integer,Over of the innings (1-indexed)
+ball_by_ball,ball_of_over,integer,"Ball number in the over, including previous wides and no-balls (1-indexed)"
+ball_by_ball,legal_ball_of_over,integer,"Ball number in the over, excluding previous wides and no-balls (1-indexed)"
+ball_by_ball,facing_batter_id,integer,Unique identifier for the batter at the striker's end
+ball_by_ball,facing_batter_name,text,Name of the batter at the striker's end
+ball_by_ball,facing_batter_number,integer,The number in the batting order of the batter at the striker's end
+ball_by_ball,facing_batter_balls_faced,integer,The number of balls faced by the facing batter previously in the innings
+ball_by_ball,non_facing_batter_id,integer,Unique identifier for the batter at the non-striker's end
+ball_by_ball,non_facing_batter_name,text,Name of the batter at the non-striker's end
+ball_by_ball,non_facing_batter_number,integer,The number in the batting order of the batter at the non-striker's end
+ball_by_ball,non_facing_batter_balls_faced,integer,The number of balls faced by the non-facing batter previously in the innings
+ball_by_ball,bowler_id,integer,Unique identifier for the bowler who bowled the ball
+ball_by_ball,bowler_name,text,Name of the bowler who bowled the ball
+ball_by_ball,bowler_balls_bowled,integer,Number of balls bowled in the innings so far by the bowler
+ball_by_ball,runs_off_bat,integer,Number of runs attributed to the batter on the ball (excludes any extras)
+ball_by_ball,no_ball_penalty_runs,integer,Number of penalty runs for a no-ball on the ball
+ball_by_ball,runs_wide,integer,Number of wide runs on the ball (e.g. 5 for '5 wides' where the ball is wide and hits the boundary)
+ball_by_ball,runs_bye,integer,Number of runs from byes on the ball
+ball_by_ball,runs_leg_bye,integer,Number of runs from leg byes on the ball
+ball_by_ball,total_balls_so_far,integer,"Total balls bowled in the innings so far, including this ball"
+ball_by_ball,total_runs_so_far,integer,"Total runs scored in the innings so far, including this ball"
+ball_by_ball,total_wickets_so_far,integer,"Total wickets taken in the innings so far, including this ball"
+ball_by_ball,wicket_number,integer,"The number of the wicket, if the ball is a wicket"
+ball_by_ball,wicket_type,text,the type of wicket if the ball resulted in a wicket
+ball_by_ball,out_batter_id,integer,"Unique identifier for the batter who was out on the ball if the ball resulted in a wicket, else null"
+ball_by_ball,out_batter_name,text,"Name of the batter who was out on the ball if the ball resulted in a wicket, else null"
+innings,match_id,text,Unique identifier for the match
+innings,innings_number,integer,Number of innings played so far in the match including this one
+innings,batting_team_id,integer,Unique identifier for the team batting in the innings
+innings,batting_team_name,text,Name of the team batting in the innings
+innings,bowling_team_id,integer,Unique identifier for the team bowling in the innings
+innings,bowling_team_name,text,Name of the team bowling in the innings
+innings,runs,integer,Total runs scored in the innings
+innings,target,integer,The minimum number of runs the batting team needs to score in order to win the match in this innings
+innings,final_over_limit,real,"Maximum overs to be played in this innings, taking into account any shortening"
+players,player_id,integer,Unique identifier for the player (batter / bowler)
+players,player_name,text,Name of the player (batter / bowler)
+players,gender,text,The gender of the player
+players,batting_hand,text,The hand the player primarily bats with
+players,bowling_hand,text,The hand the player primarily bowls with
+players,bowling_type,text,The primary type of bowling the player bowls

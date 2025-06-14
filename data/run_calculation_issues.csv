@@ -1,0 +1,44 @@
+match_id,innings_number,over,ball_of_over,legal_ball_of_over,facing_batter_id,facing_batter_name,facing_batter_number,facing_batter_balls_faced,non_facing_batter_id,non_facing_batter_name,non_facing_batter_number,non_facing_batter_balls_faced,bowler_id,bowler_name,bowler_balls_bowled,runs_off_bat,no_ball_penalty_runs,runs_wide,runs_bye,runs_leg_bye,total_balls_so_far,total_runs_so_far,total_wickets_so_far,wicket_number,wicket_type,out_batter_id,out_batter_name,calculated_runs,run_difference
+1459548,1,13,6,6,270135,Ariful Haque,7,8,,,,5,1072470,Shaheen Shah Afridi,18,0,0.0,0.0,0.0,0.0,79,85,7,,,,,0.0,1.0
+1459548,1,14,6,6,461632,Reece Topley,10,1,270135.0,Ariful Haque,7.0,8,1139523,Rishad Hossain,18,0,0.0,0.0,0.0,0.0,85,89,8,,,,,0.0,5.0
+1459548,1,15,1,1,270135,Ariful Haque,7,9,461632.0,Reece Topley,10.0,1,1402359,Jahandad Khan,13,6,0.0,0.0,0.0,0.0,86,95,8,,,,,6.0,5.0
+1459548,1,15,2,2,270135,Ariful Haque,7,10,461632.0,Reece Topley,10.0,1,1402359,Jahandad Khan,14,0,0.0,0.0,0.0,0.0,87,95,8,,,,,0.0,5.0
+1459548,1,15,3,3,270135,Ariful Haque,7,11,461632.0,Reece Topley,10.0,1,1402359,Jahandad Khan,15,6,0.0,0.0,0.0,0.0,88,101,8,,,,,6.0,5.0
+1459548,1,15,4,4,270135,Ariful Haque,7,12,461632.0,Reece Topley,10.0,1,1402359,Jahandad Khan,16,0,0.0,0.0,0.0,0.0,89,101,8,,,,,0.0,5.0
+1459548,1,15,5,5,270135,Ariful Haque,7,13,461632.0,Reece Topley,10.0,1,1402359,Jahandad Khan,17,1,0.0,0.0,0.0,0.0,90,102,8,,,,,1.0,5.0
+1459548,1,15,6,6,461632,Reece Topley,10,2,270135.0,Ariful Haque,7.0,13,1402359,Jahandad Khan,18,0,0.0,0.0,0.0,0.0,91,102,8,,,,,0.0,5.0
+1459548,1,16,1,1,270135,Ariful Haque,7,14,461632.0,Reece Topley,10.0,2,1139523,Rishad Hossain,19,0,0.0,0.0,0.0,0.0,92,102,8,,,,,0.0,5.0
+1459548,1,16,2,2,270135,Ariful Haque,7,15,461632.0,Reece Topley,10.0,2,1139523,Rishad Hossain,20,2,0.0,0.0,0.0,0.0,93,104,8,,,,,2.0,5.0
+1459548,1,16,3,3,270135,Ariful Haque,7,16,461632.0,Reece Topley,10.0,2,1139523,Rishad Hossain,21,0,0.0,0.0,0.0,0.0,94,104,8,,,,,0.0,5.0
+1459548,1,16,4,4,270135,Ariful Haque,7,17,461632.0,Reece Topley,10.0,2,1139523,Rishad Hossain,22,4,0.0,0.0,0.0,0.0,95,108,8,,,,,4.0,5.0
+1459548,1,16,5,5,270135,Ariful Haque,7,18,461632.0,Reece Topley,10.0,2,1139523,Rishad Hossain,23,6,0.0,0.0,0.0,0.0,96,114,8,,,,,6.0,5.0
+1459548,1,16,6,6,270135,Ariful Haque,7,19,461632.0,Reece Topley,10.0,2,1139523,Rishad Hossain,24,1,0.0,0.0,0.0,0.0,97,115,8,,,,,1.0,5.0
+1459548,1,17,1,1,270135,Ariful Haque,7,1,,,,0,681117,Faheem Ashraf,1,0,0.0,0.0,0.0,0.0,98,0,0,,,,,0.0,-110.0
+1459548,1,17,2,2,270135,Ariful Haque,7,2,,,,0,681117,Faheem Ashraf,2,0,0.0,0.0,0.0,0.0,99,0,0,,,,,0.0,-110.0
+1459548,1,17,3,3,270135,Ariful Haque,7,3,,,,0,681117,Faheem Ashraf,3,0,0.0,0.0,0.0,0.0,100,0,0,,,,,0.0,-110.0
+1459548,1,17,4,4,270135,Ariful Haque,7,4,,,,0,681117,Faheem Ashraf,4,0,0.0,0.0,0.0,0.0,101,0,0,,,,,0.0,-110.0
+1459548,1,17,5,5,270135,Ariful Haque,7,5,,,,0,681117,Faheem Ashraf,5,1,0.0,0.0,0.0,0.0,102,1,0,,,,,1.0,-110.0
+1459548,1,17,6,6,461632,Reece Topley,10,3,270135.0,Ariful Haque,7.0,24,681117,Faheem Ashraf,18,4,0.0,0.0,0.0,0.0,103,120,8,,,,,4.0,5.0
+1459548,1,18,1,1,270135,Ariful Haque,7,25,461632.0,Reece Topley,10.0,3,1072470,Shaheen Shah Afridi,1,0,0.0,0.0,0.0,0.0,104,120,8,,,,,0.0,5.0
+1459548,1,18,2,2,270135,Ariful Haque,7,26,461632.0,Reece Topley,10.0,3,1072470,Shaheen Shah Afridi,2,2,0.0,0.0,0.0,0.0,105,122,8,,,,,2.0,5.0
+1459548,1,18,3,3,270135,Ariful Haque,7,27,461632.0,Reece Topley,10.0,3,1072470,Shaheen Shah Afridi,3,1,0.0,0.0,0.0,0.0,106,123,8,,,,,1.0,5.0
+1459548,1,18,4,4,461632,Reece Topley,10,4,270135.0,Ariful Haque,7.0,27,1072470,Shaheen Shah Afridi,4,1,0.0,0.0,0.0,0.0,107,124,8,,,,,1.0,5.0
+1459548,1,18,5,5,270135,Ariful Haque,7,28,461632.0,Reece Topley,10.0,4,1072470,Shaheen Shah Afridi,5,1,0.0,0.0,0.0,0.0,108,125,8,,,,,1.0,5.0
+1459548,1,18,6,6,461632,Reece Topley,10,5,270135.0,Ariful Haque,7.0,28,1072470,Shaheen Shah Afridi,24,0,0.0,0.0,0.0,0.0,109,125,8,,,,,0.0,5.0
+1459548,1,19,1,1,270135,Ariful Haque,7,29,461632.0,Reece Topley,10.0,5,681117,Faheem Ashraf,19,0,0.0,0.0,0.0,0.0,110,125,9,9.0,caught,270135.0,Ariful Haque,0.0,5.0
+1459548,1,19,2,2,511532,Al-Amin Hossain,11,1,461632.0,Reece Topley,10.0,5,681117,Faheem Ashraf,20,0,0.0,0.0,0.0,0.0,111,125,10,10.0,caught,511532.0,Al-Amin Hossain,0.0,5.0
+1459550,2,16,1,1,269237,Mohammad Mithun,4,15,470501.0,Graham Clark,3.0,27,976429,Farmanullah,19,6,0.0,0.0,0.0,0.0,93,136,2,,,,,6.0,4.0
+1459550,2,16,2,2,269237,Mohammad Mithun,4,16,470501.0,Graham Clark,3.0,27,976429,Farmanullah,20,1,0.0,0.0,0.0,0.0,94,137,2,,,,,1.0,4.0
+1459550,2,16,3,3,470501,Graham Clark,3,28,269237.0,Mohammad Mithun,4.0,16,976429,Farmanullah,21,0,0.0,0.0,0.0,0.0,95,137,2,,,,,0.0,4.0
+1459550,2,16,4,4,470501,Graham Clark,3,29,269237.0,Mohammad Mithun,4.0,16,976429,Farmanullah,22,1,0.0,0.0,0.0,0.0,96,138,2,,,,,1.0,4.0
+1459550,2,16,5,5,269237,Mohammad Mithun,4,17,470501.0,Graham Clark,3.0,29,976429,Farmanullah,23,1,0.0,0.0,0.0,0.0,97,139,2,,,,,1.0,4.0
+1459550,2,16,6,6,470501,Graham Clark,3,30,269237.0,Mohammad Mithun,4.0,17,976429,Farmanullah,24,2,0.0,0.0,0.0,0.0,98,141,2,,,,,2.0,4.0
+1459550,2,18,1,1,1161044,Shamim Hossain,5,3,269237.0,Mohammad Mithun,4.0,19,330902,Mustafizur Rahman,19,0,0.0,0.0,0.0,0.0,105,145,3,,,,,0.0,8.0
+1459550,2,18,2,2,1161044,Shamim Hossain,5,4,269237.0,Mohammad Mithun,4.0,19,330902,Mustafizur Rahman,20,4,0.0,0.0,0.0,0.0,106,149,3,,,,,4.0,8.0
+1459550,2,18,3,3,1161044,Shamim Hossain,5,5,269237.0,Mohammad Mithun,4.0,19,330902,Mustafizur Rahman,21,0,0.0,0.0,0.0,0.0,107,149,3,,,,,0.0,8.0
+1459550,2,18,4,4,1161044,Shamim Hossain,5,6,269237.0,Mohammad Mithun,4.0,19,330902,Mustafizur Rahman,22,4,0.0,0.0,0.0,0.0,108,153,3,,,,,4.0,8.0
+1459550,2,18,5,5,1161044,Shamim Hossain,5,7,269237.0,Mohammad Mithun,4.0,19,330902,Mustafizur Rahman,23,1,0.0,0.0,0.0,0.0,109,154,3,,,,,1.0,8.0
+1459550,2,18,6,6,269237,Mohammad Mithun,4,20,1161044.0,Shamim Hossain,5.0,7,330902,Mustafizur Rahman,24,1,0.0,0.0,0.0,0.0,110,155,3,,,,,1.0,8.0
+1459550,2,20,1,1,1161044,Shamim Hossain,5,13,269237.0,Mohammad Mithun,4.0,21,990165,Mukidul Islam,19,2,0.0,0.0,0.0,0.0,117,175,3,,,,,2.0,26.0
+1459550,2,20,2,2,1161044,Shamim Hossain,5,14,269237.0,Mohammad Mithun,4.0,21,990165,Mukidul Islam,20,1,0.0,0.0,0.0,0.0,118,176,3,,,,,1.0,26.0
+1459550,2,20,3,3,269237,Mohammad Mithun,4,22,1161044.0,Shamim Hossain,5.0,14,990165,Mukidul Islam,21,4,0.0,0.0,0.0,0.0,119,180,3,,,,,4.0,26.0

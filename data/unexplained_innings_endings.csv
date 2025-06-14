@@ -1,0 +1,3 @@
+match_id,innings_number,batting_team_id,batting_team_name,bowling_team_id,bowling_team_name,runs,target,final_over_limit,max_over_played,total_wickets_so_far,target_reached
+1475258,1,953847,Lahore Qalandars,953845,Quetta Gladiators,111,,20.0,12,3,
+1449663,2,1335271,Pretoria Capitals,1328786,MI Cape Town,106,202.0,20.0,14,6,False
